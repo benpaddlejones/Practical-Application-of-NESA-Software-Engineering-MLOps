@@ -1,7 +1,5 @@
 # Practical Application of NESA Software Engineering MLOps
 
-https://github.com/user-attachments/assets/17bb86a4-4798-4e18-ab1d-dfb6045bb4dd
-
 This Jupyter Notebook collection is designed to support students in understanding Machine Learning Operations (MLOps) at the manual level of MLOps automation, specifically its practical processes as defined in the [NESA Software Engineering Course Specifications](https://library.curriculum.nsw.edu.au/341419dc-8ec2-0289-7225-6db7f2d751ef/94e1eb0a-0df7-4dbe-9b72-5d5e0d17143a/software-engineering-11-12-higher-school-certificate-course-specifications.PDF) pg 27. Students can then explore further how these processes can be automated under a DevOps/MLOps model.
 
 ![Course Specification MLOps Model](/images/MLOPS_Model.png)
